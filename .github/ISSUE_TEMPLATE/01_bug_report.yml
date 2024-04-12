@@ -63,11 +63,4 @@ body:
       placeholder: 
     validations:
       required: true
-  - type: input
-    id: client-culture-settings
-    attributes:
-      label: Client Culture Setting
-      description: This is found in your Rock System Information ⓘ toolbar popup. ![As seen in the ](https://rockrms.blob.core.windows.net/public-images/githubdocs/01_bug_report.system_information_popup.png)
-      placeholder: 
-    validations:
-      required: true
+  
